@@ -12,9 +12,6 @@ st.title("🧬 Analisador de Genes por Função Biofortificadora")
 BASE_DIR = Path(__file__).parent
 caminho_csv = BASE_DIR / "tabela_genes.csv"
 
-# (Opcional) Mostrar no app onde ele está procurando o CSV — útil para debug
-st.write("Procurando CSV em:", caminho_csv.resolve())
-
 df_ref = pd.read_csv(caminho_csv, encoding="utf-8")
 
 # =========================
