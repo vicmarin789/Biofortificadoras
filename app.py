@@ -2,6 +2,10 @@ import streamlit as st
 import pandas as pd
 from Bio import SeqIO
 from pathlib import Path
+
+BASE_DIR = Path(__file__).parent
+caminho_csv = BASE_DIR / "tabela_genes.csv"
+
 import io
 import re
 
