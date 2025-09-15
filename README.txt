@@ -63,3 +63,16 @@ Desenvolvida para auxiliar em pesquisas de microbiologia aplicada, segurança ali
 - Python 3.9+  
 - Streamlit  
 - Arquivo CSV de entrada no formato:  
+
+funcao,gene1;gene2;gene3 Vitamina K2 (menaquinona),menA;menB;menC;menD;menE;menF;menG;menH Ferro (sideróforos),entA;entB;entC;entD;entE;fepA;fepB;fepC PUFAs (DHA/EPA),pfaA;pfaB;pfaC;pfaD;pfaE 
+
+
+---
+
+## ? Licença
+Uso restrito para fins de pesquisa e desenvolvimento.  
+É proibida a redistribuição, modificação ou uso comercial sem autorização expressa.  
+Para aplicação em análises oficiais, é necessário contato prévio e autorização.
+
+---
+
