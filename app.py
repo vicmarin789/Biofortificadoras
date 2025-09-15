@@ -2,18 +2,20 @@ import streamlit as st
 import pandas as pd
 from Bio import SeqIO
 from pathlib import Path
-
-BASE_DIR = Path(__file__).parent
-caminho_csv = BASE_DIR / "tabela_genes.csv"
-
 import io
 import re
 
 st.set_page_config(page_title="Analisador de Genes", layout="wide")
 st.title("🧬 Analisador de Genes por Função Biofortificadora")
 
-# Caminho local do CSV com a tabela de genes
-caminho_csv = r"C:\Users\vamar\OneDrive - unirio.br\Documentos\Biofortificadoras\tabela_genes.csv"
+# Caminho relativo ao arquivo app.py
+BASE_DIR = Path(__file__).parent
+caminho_csv = BASE_DIR / "tabela_genes.csv"
+
+# (Opcional) Mostrar no app onde ele está procurando o CSV — útil para debug
+st.write("Procurando CSV em:", caminho_csv.resolve())
+
+df_ref = pd.read_csv(caminho_csv, encoding="utf-8")
 
 # =========================
 # Utilidades de normalização
