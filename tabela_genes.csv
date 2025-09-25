@@ -1,37 +1,38 @@
-Função,Genes,Origem
-Produção de Ubiquinonas,"ubiA, ubiB, ubiC, ubiD, ubiE, ubiF, ubiG, ubiH, ubiI, ubiJ, ubiK, ubiL, ubiM, ubiN, ubiO, ubiP, ubiQ, ubiR, ubiS, ubiT, ubiU, ubiV, ubiX",Lista original + literatura
-Síntese de Carotenoides,"crtZ, crtB, crtI, crtY, crtX, crtE, crtW, crtO, crtP, crtQ",Lista original + literatura
-Síntese de Vitamina K2 (Menaquinona),"dxs, dxr, glpF, glpK, glpD, tpiA, tktA, tktB, pykA, pykF, aroF, aroA, aroE, aroK, aroL, aroH, aroG, aroP, aroB, aroC, menF/entC, menH, menI, ispA, ispD, ispE, ispF, ispG, ispH, menA/ubiE, fadA, fadI, idi, aroQ1, aroQ2, pheA1, pheA2, menB, menC, menD, menE",Lista original + literatura
-Vitaminas do Complexo B,"thiC, thiD, thiE, thiK, thiG, dxs, thiM, ribC, ribA, ribB, ribD, ribE, ribH, ribF, nadA, nadB, nadC, nadD, nadE, panD, panC, panB, panE1, panE2, panF, panS, panM, pdxB, pdxA1, pdxA2, pdxJ, serC, bioA, bioB, bioC, bioD1, bioD2, bioF, bioH, fabD, fabG1, fabG2, fabG3, fabG4, fabA, fabF1, fabF2, fabF3, fabF4, fabI, folK, folB, nudB, folE, folA, hemA, hemB, hemC, hemD, cysG1, cysG2, gltX, thiH, ribM, nadK, panR, bioY",Lista original + literatura
-Vitamina B12 (Cobalamina),"btuC, btuE, btuD1, btuR (cobO/P), btuD2, btuD3, btuB1, btuD4, btuD5, btuF1, btuD6, btuD7, btuF2, btuB2, btuD8, btuF3, cobB, cobC, pncB (cobU/T), cobA, cobD, cobE, cobF, cobG, cobH, cobI, cobJ, cobK, cobL, cobM, cobN, cobP, cobQ, cobS, cobT, cobV",Lista original + literatura
-Metabolismo de Selênio,"selD, selB, selA, selU",Lista original + literatura
-Aquisição e Regulação de Ferro,"entA, entC, entE, entF, entB, entS1, entS2, entS3, exbD1, exbD2, exbB, bfr, fur, fhuA1, fhuE, fhuF, fhuA2, fhuC, fhuD, fhuB, fieE, feoA, feoB, feoC, sitA, sitB, sitC, sitD, efeU, efeO, efeB",Lista original + literatura
-Aquisição e Regulação de Zinco,"znuA, znuB, znuC, pitA1, pitA2, pitA3, zntA, zntB1, zntB2, zntR, zitB, czcA, czcB, czcC, czcD, zur",Lista original + literatura
-Aquisição e Regulação de Cobre e Manganês,"copA, copB, cutC, mntH, sitA, mntABC, mntR ",
-Metabolismo de Iodo,"iodP, iodQ, peroxidase, haloperoxidase",
-Síntese de Ácidos Graxos Poli-insaturados (PUFAs),"pfaA, pfaB, pfaC, pfaD, pfaE",
-"Biossíntese de Aminoácidos Essenciais (Lisina, Metionina, Triptofano)","lysA, dapA, metE, metH, trpA, trpB, trpC, trpD, trpE",
-Biossíntese de Vitamina C (Ácido L-ascórbico) ,"gulo, gme, gpp, lgdH, lgdL ",
-Cálcio (solubilização),"chaA, yloB, calcium-transport ATPases, ppx, ppk",
-Vitamina E (tocoferóis/tocotrienóis),"hpt, vte1, vte2, vte3, vte4",
-Glutationa,"gshA, gshB, gor",
-Poliamina Espermidina,"speA, speB, speC, speE",
-Pigmentos bioativos,"pigA, pigB, pigC, pigD, pigE, vioA, vioB, vioC, vioD, vioE",
-Iodo,"iodP, iodQ, peroxidase, haloperoxidase ",
-"1,3-Diaminopropano ","dat, dpaL ",
-Putrescina ,"speA, speB, speC, speF ",
-Cadaverina ,"cadA, ldcC ",
-Espermidina (usa putrescina como substrato),speE,
-Espermina,spe2,
-Vitamina B7 (Biotina),bioA; bioB; bioC; bioD; bioF,
-Vitamina B5 (Ácido pantotênico),panB; panC; panD; coaA; coaD; coaE,
-Vitamina B6 (Piridoxina),pdxA; pdxB; pdxJ; pdxH; serC,
-Ácido lipóico,lipA; lipB; lipM; lipL,
-Ácido fólico (B9),folA; folB; folC; folE; folK; folP,
-Exopolissacarídeos (EPS),epsA; epsB; epsC; epsD; epsE,
-Ácido hialurônico,hasA; hasB; hasC,
-Polihidroxialcanoatos (PHAs),phaA; phaB; phaC,
-Trehalose,otsA; otsB; treS; treY; treZ,
-Manitol / Sorbitol,mtlD; mtlA; srlD; srlA,
-Ácido láctico e outros ácidos orgânicos,ldh; ackA; pta; adhE,
-Compostos fenólicos bacterianos,phlD; tal; chs,
+função,genes,origem
+produção de ubiquinonas,"ubia, ubib, ubic, ubid, ubie, ubif, ubig, ubih, ubii, ubij, ubik, ubil, ubim, ubin, ubio, ubip, ubiq, ubir, ubis, ubit, ubiu, ubiv, ubix",lista original + literatura
+síntese de carotenoides,"crtz, crtb, crti, crty, crtx, crte, crtw, crto, crtp, crtq",lista original + literatura
+síntese de vitamina k2 (menaquinona),"dxs, dxr, glpf, glpk, glpd, tpia, tkta, tktb, pyka, pykf, arof, aroa, aroe, arok, arol, aroh, arog, arop, arob, aroc, menf/entc, menh, meni, ispa, ispd, ispe, ispf, ispg, isph, mena/ubie, fada, fadi, idi, aroq1, aroq2, phea1, phea2, menb, menc, mend, mene",lista original + literatura
+vitaminas do complexo b,"thic, thid, thie, thik, thig, dxs, thim, ribc, riba, ribb, ribd, ribe, ribh, ribf, nada, nadb, nadc, nadd, nade, pand, panc, panb, pane1, pane2, panf, pans, panm, pdxb, pdxa1, pdxa2, pdxj, serc, bioa, biob, bioc, biod1, biod2, biof, bioh, fabd, fabg1, fabg2, fabg3, fabg4, faba, fabf1, fabf2, fabf3, fabf4, fabi, folk, folb, nudb, fole, fola, hema, hemb, hemc, hemd, cysg1, cysg2, gltx, thih, ribm, nadk, panr, bioy",lista original + literatura
+vitamina b12 (cobalamina),"btuc, btue, btud1, btur (cobo/p), btud2, btud3, btub1, btud4, btud5, btuf1, btud6, btud7, btuf2, btub2, btud8, btuf3, cobb, cobc, pncb (cobu/t), coba, cobd, cobe, cobf, cobg, cobh, cobi, cobj, cobk, cobl, cobm, cobn, cobp, cobq, cobs, cobt, cobv",lista original + literatura
+metabolismo de selênio,"seld, selb, sela, selu",lista original + literatura
+aquisição e regulação de ferro,", pcha, pchb, pchc, pchd, pche, pchf, pvda, pvdd, pvdf, pvdh, pvdi, pvdj, pvdl, sida, sidc, sidd, sidf, sidg, fepa, fepb, fepc, fepd, fepg, tonb, exbb, exbd, fur, pvds",lista original + literatura
+aquisição e regulação de zinco,"znua, znub, znuc, pita1, pita2, pita3, znta, zntb1, zntb2, zntr, zitb, czca, czcb, czcc, czcd, zur",lista original + literatura
+aquisição e regulação de cobre e manganês,"copa, copb, cutc, mnth, sita, mntabc, mntr ",
+metabolismo de iodo,"iodp, iodq, peroxidase, haloperoxidase",
+síntese de ácidos graxos poli-insaturados (pufas),"pfaa, pfab, pfac, pfad, pfae",
+"biossíntese de aminoácidos essenciais (lisina, metionina, triptofano)","lysa, dapa, mete, meth, trpa, trpb, trpc, trpd, trpe",
+biossíntese de vitamina c (ácido l-ascórbico) ,"gulo, gme, gpp, lgdh, lgdl ",
+cálcio (solubilização),"chaa, ylob, calcium-transport atpases, ppx, ppk",
+vitamina e (tocoferóis/tocotrienóis),"hpt, vte1, vte2, vte3, vte4",
+glutationa,"gsha, gshb, gor",
+poliamina espermidina,"spea, speb, spec, spee",
+pigmentos bioativos,"piga, pigb, pigc, pigd, pige, vioa, viob, vioc, viod, vioe",
+iodo,"iodp, iodq, peroxidase, haloperoxidase ",
+"1,3-diaminopropano ","dat, dpal ",
+putrescina ,"spea, speb, spec, spef ",
+cadaverina ,"cada, ldcc ",
+espermidina (usa putrescina como substrato),spee,
+espermina,spe2,
+vitamina b7 (biotina),bioa; biob; bioc; biod; biof,
+vitamina b5 (ácido pantotênico),panb; panc; pand; coaa; coad; coae,
+vitamina b6 (piridoxina),pdxa; pdxb; pdxj; pdxh; serc,
+ácido lipóico,lipa; lipb; lipm; lipl,
+ácido fólico (b9),fola; folb; folc; fole; folk; folp,
+exopolissacarídeos (eps),epsa; epsb; epsc; epsd; epse,
+ácido hialurônico,hasa; hasb; hasc,
+polihidroxialcanoatos (phas),phaa; phab; phac,
+trehalose,otsa; otsb; tres; trey; trez,
+manitol / sorbitol,mtld; mtla; srld; srla,
+ácido láctico e outros ácidos orgânicos,ldh; acka; pta; adhe,
+compostos fenólicos bacterianos,phld; tal; chs,
+produção de sideróforos,,
